@@ -1,6 +1,6 @@
 {
-    "version_esp" : "24.9.13",
-    "url_esp" : "https://saadubaidillah.github.io/update_firmware.github.io/firmware_esp_24.9.13.bin",
+    "version_esp" : "24.9.16",
+    "url_esp" : "https://saadubaidillah.github.io/update_firmware.github.io/firmware_esp_24.9.16.bin",
     "version_arduino" : "24.9.0",
     "url_arduino" : "https://saadubaidillah.github.io/update_firmware.github.io/firmware_arduino_24.9.0.bin"
 }
